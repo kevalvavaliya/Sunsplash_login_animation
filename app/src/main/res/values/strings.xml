@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">splashLogin</string>
+    <string name="register">Don\'t have an account? <b>Register Here</b></string>
+</resources>
